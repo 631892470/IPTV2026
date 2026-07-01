@@ -231,3 +231,27 @@ webview://http://v.iqilu.com/live/yspd/
 webview://http://v.iqilu.com/live/shpd/
 #EXTINF:-1 tvg-name="山东综艺频道" tvg-logo="https://logo.catvod.com/山东综艺频道.png" group-title="山东地方",山东综艺频道
 webview://http://v.iqilu.com/live/zypd/
+#EXTINF:-1 tvg-name="长清新闻" tvg-logo="https://logo.catvod.com/长清新闻.png" group-title="山东地方",长清新闻
+webview://https://iapp.jncqrm.cn/share/dHZsLTE3MS0y.html
+#EXTINF:-1 tvg-name="长清生活" tvg-logo="https://logo.catvod.com/长清生活.png" group-title="山东地方",长清生活
+webview://https://iapp.jncqrm.cn/share/dHZsLTE3MS0yMA.html
+#EXTINF:-1 tvg-name="济铁电视台" tvg-logo="https://logo.catvod.com/济铁电视台.png" group-title="山东地方",济铁电视台
+webview://https://jnjapp.jntlj.com/share/dHZsLTMwMy0x.html
+#EXTINF:-1 tvg-name="济阳综合" tvg-logo="https://logo.catvod.com/济阳综合.png" group-title="山东地方",济阳综合
+webview://https://iapp.jiyangrongmei.cn/share/dHZsLTg1LTE.html
+#EXTINF:-1 tvg-name="济阳影视" tvg-logo="https://logo.catvod.com/济阳影视.png" group-title="山东地方",济阳影视
+webview://https://iapp.jiyangrongmei.cn/share/dHZsLTg1LTI.html
+#EXTINF:-1 tvg-name="历城新闻综合" tvg-logo="https://logo.catvod.com/历城新闻综合.png" group-title="山东地方",历城新闻综合
+webview://https://iapp.ailicheng.cn/share/dHZsLTI2MS0x.html
+#EXTINF:-1 tvg-name="平阴综合" tvg-logo="https://logo.catvod.com/平阴综合.png" group-title="山东地方",平阴综合
+webview://https://app.litenews.cn/share/dHZsLTI1Ny0x.html
+#EXTINF:-1 tvg-name="平阴乡村振兴" tvg-logo="https://logo.catvod.com/平阴乡村振兴.png" group-title="山东地方",平阴乡村振兴
+webview://https://app.litenews.cn/share/dHZsLTI1Ny0z.html
+#EXTINF:-1 tvg-name="商河综合" tvg-logo="https://logo.catvod.com/商河综合.png" group-title="山东地方",商河综合
+webview://https://iapp.shxrmtzx.com/share/dHZsLTk3LTE.html
+#EXTINF:-1 tvg-name="商河影视" tvg-logo="https://logo.catvod.com/商河影视.png" group-title="山东地方",商河影视
+webview://https://iapp.shxrmtzx.com/share/dHZsLTk3LTI.html
+#EXTINF:-1 tvg-name="章丘综合" tvg-logo="https://logo.catvod.com/章丘综合.png" group-title="山东地方",章丘综合
+webview://https://app.litenews.cn/share/dHZsLTE5NS0x.html
+#EXTINF:-1 tvg-name="章丘公共" tvg-logo="https://logo.catvod.com/章丘公共.png" group-title="山东地方",章丘公共
+webview://https://app.litenews.cn/share/dHZsLTE5NS0y.html
