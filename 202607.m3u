@@ -213,12 +213,21 @@ webview://https://www.yangshipin.cn/tv/home?pid=600152138
 webview://https://yangshipin.cn/tv/home?pid=600190403
 #EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://logo.catvod.com/山东教育卫视.png" group-title="卫视",山东教育卫视
 webview://https://www.sdetv.com.cn/edu/pc/live/index.html
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://logo.catvod.com/山东卫视.png" group-title="山东地方",山东卫视,webview://http://v.iqilu.com/live/sdtv/
-#EXTINF:-1 tvg-name="齐鲁频道" tvg-logo="https://logo.catvod.com/齐鲁频道.png" group-title="山东地方",齐鲁频道,webview://http://v.iqilu.com/live/qlpd/
-#EXTINF:-1 tvg-name="山东新闻综合" tvg-logo="https://logo.catvod.com/山东新闻综合.png" group-title="山东地方",山东新闻综合,webview://http://v.iqilu.com/live/ggpd/
-#EXTINF:-1 tvg-name="山东农科频道" tvg-logo="https://logo.catvod.com/山东农科频道.png" group-title="山东地方",山东农科频道,webview://http://v.iqilu.com/live/nkpd/
-#EXTINF:-1 tvg-name="山东少儿频道" tvg-logo="https://logo.catvod.com/山东少儿频道.png" group-title="山东地方",山东少儿频道,webview://http://v.iqilu.com/live/sepd/
-#EXTINF:-1 tvg-name="山东体育频道" tvg-logo="https://logo.catvod.com/山东体育频道.png" group-title="山东地方",山东体育频道,webview://http://v.iqilu.com/live/typd/
-#EXTINF:-1 tvg-name="山东文旅频道" tvg-logo="https://logo.catvod.com/山东文旅频道.png" group-title="山东地方",山东文旅频道,webview://http://v.iqilu.com/live/yspd/
-#EXTINF:-1 tvg-name="山东生活频道" tvg-logo="https://logo.catvod.com/山东生活频道.png" group-title="山东地方",山东生活频道,webview://http://v.iqilu.com/live/shpd/
-#EXTINF:-1 tvg-name="山东综艺频道" tvg-logo="https://logo.catvod.com/山东综艺频道.png" group-title="山东地方",山东综艺频道,webview://http://v.iqilu.com/live/zypd/
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://logo.catvod.com/山东卫视.png" group-title="山东地方",山东卫视
+webview://http://v.iqilu.com/live/sdtv/
+#EXTINF:-1 tvg-name="齐鲁频道" tvg-logo="https://logo.catvod.com/齐鲁频道.png" group-title="山东地方",齐鲁频道
+webview://http://v.iqilu.com/live/qlpd/
+#EXTINF:-1 tvg-name="山东新闻综合" tvg-logo="https://logo.catvod.com/山东新闻综合.png" group-title="山东地方",山东新闻综合
+webview://http://v.iqilu.com/live/ggpd/
+#EXTINF:-1 tvg-name="山东农科频道" tvg-logo="https://logo.catvod.com/山东农科频道.png" group-title="山东地方",山东农科频道
+webview://http://v.iqilu.com/live/nkpd/
+#EXTINF:-1 tvg-name="山东少儿频道" tvg-logo="https://logo.catvod.com/山东少儿频道.png" group-title="山东地方",山东少儿频道
+webview://http://v.iqilu.com/live/sepd/
+#EXTINF:-1 tvg-name="山东体育频道" tvg-logo="https://logo.catvod.com/山东体育频道.png" group-title="山东地方",山东体育频道
+webview://http://v.iqilu.com/live/typd/
+#EXTINF:-1 tvg-name="山东文旅频道" tvg-logo="https://logo.catvod.com/山东文旅频道.png" group-title="山东地方",山东文旅频道
+webview://http://v.iqilu.com/live/yspd/
+#EXTINF:-1 tvg-name="山东生活频道" tvg-logo="https://logo.catvod.com/山东生活频道.png" group-title="山东地方",山东生活频道
+webview://http://v.iqilu.com/live/shpd/
+#EXTINF:-1 tvg-name="山东综艺频道" tvg-logo="https://logo.catvod.com/山东综艺频道.png" group-title="山东地方",山东综艺频道
+webview://http://v.iqilu.com/live/zypd/
